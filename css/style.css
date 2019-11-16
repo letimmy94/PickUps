@@ -8,7 +8,7 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #dc143c;
 }
 
 p {
@@ -50,8 +50,5 @@ p {
 }
 .icon-block .material-icons {
   font-size: inherit;
-}
-
-footer.page-footer {
-  margin: 0;
+  color: #dc143c;
 }
