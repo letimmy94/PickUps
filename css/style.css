@@ -8,7 +8,7 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #dc143c;
+  color: #d40202;
 }
 
 p {
@@ -16,14 +16,14 @@ p {
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: #d40202;
 }
 
 .parallax-container {
   min-height: 350px;
   line-height: 0;
   height: auto;
-  color: #dc143c;
+  color: #d40202;
 }
 .parallax-container .section {
   width: 100%;
@@ -50,5 +50,5 @@ p {
 }
 .icon-block .material-icons {
   font-size: inherit;
-  color: #dc143c;
+  color: #d40202;
 }
